@@ -1,6 +1,6 @@
-# 🧠 Sistema Inteligente de Detección de Objetos Peligrosos
+# Sistema Inteligente de Detección de Objetos Peligrosos
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de un **sistema inteligente de detección de objetos peligrosos**, cuyo propósito es identificar objetos en un entorno cotidiano mediante **visión artificial**, clasificar su nivel de riesgo y ejecutar **acciones físicas reales** utilizando un sistema embebido con Arduino.
 
@@ -10,7 +10,7 @@ Dependiendo del nivel de riesgo identificado, el sistema envía comandos por **c
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Teachable Machine (Google)**  
   Utilizado para entrenar un modelo de clasificación de imágenes capaz de reconocer objetos peligrosos y no peligrosos.
@@ -32,7 +32,7 @@ Dependiendo del nivel de riesgo identificado, el sistema envía comandos por **c
 
 ---
 
-## 🧩 Arquitectura del sistema
+## Arquitectura del sistema
 
 El sistema está estructurado en las siguientes etapas:
 
@@ -55,7 +55,7 @@ Esta arquitectura permite una clara separación entre **percepción, inteligenci
 
 ---
 
-## 🚦 Clasificación de riesgos
+## Clasificación de riesgos
 
 El sistema clasifica los objetos detectados según el siguiente nivel de peligro:
 
@@ -79,7 +79,7 @@ El sistema clasifica los objetos detectados según el siguiente nivel de peligro
 
 ---
 
-## ⚙️ Funcionamiento del sistema
+## Funcionamiento del sistema
 
 1. El usuario abre la interfaz web y conecta el Arduino.
 2. La cámara web captura imágenes del entorno.
@@ -90,7 +90,7 @@ El sistema clasifica los objetos detectados según el siguiente nivel de peligro
 
 ---
 
-## 📁 Contenido del repositorio
+## Contenido del repositorio
 
 - Código fuente del sistema (HTML, JavaScript y Arduino).
 - Modelo entrenado en Teachable Machine (enlace).
@@ -99,6 +99,6 @@ El sistema clasifica los objetos detectados según el siguiente nivel de peligro
 
 ---
 
-## 🎓 Proyecto académico
+## Proyecto académico
 
 Proyecto desarrollado como **Proyecto Final de la materia Sistemas Inteligentes**, demostrando la aplicación práctica de **aprendizaje automático, razonamiento lógico e integración hardware–software** en un sistema funcional.
